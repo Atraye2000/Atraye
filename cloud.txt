@@ -1,0 +1,9 @@
+Life cycle of Cloud Computing
+1.define the purpose  
+2.define the hardware : EC2 ,lambda
+3.define the storage : S3 , EFS, Glacier
+4.define the Network : VPC, router53, direct connect
+5.define the security : cognito,IAM,KMS
+6.management process and tools : cloud watch, auto scaling
+7.Testing the process :code star,code build
+8.Analytics : athena , EMR
